@@ -135,7 +135,55 @@ CIS 14 recommends
 1. Perform a skills gap analysis
 2. Training employees in the skills they are lacking
 3. Implementing a Security Awareness Program
-4. Updating Awareness programs regularly
-5. Train Workforce to secure authentication, identify social engineering attacks, sensitive data handling, causes of unintentional data exposure, and identification and reporting incidents
-6. Organizations need to stay on top of making their employees aware of the risks and train them with the latest security measures
+5. Updating Awareness programs regularly
+6. Train Workforce to secure authentication, identify social engineering attacks, sensitive data handling, causes of unintentional data exposure, and identification and reporting incidents
+7. Organizations need to stay on top of making their employees aware of the risks and train them with the latest security measures
+   
+# CIS 15 - Service Provider Management 
+Outside vendors to conduct daily business functions. Develop a process to evaluate service providers who hold sensitive data or are responsible for an enterprises critical IT platforms or processes to protect them.
 
+CIS 15 recommends 
+1. Identifying, classifying and assessing all vendors
+2. Ensuring providers know organization's security requirements
+3. Constant monitoring providers
+4. Properly decommissioning providers
+
+# CIS 16 - Application Software Security
+Mange the security of in-house developed, hosted, or acquired software to prevent, detect, and remediate security weaknesses before they can impact the enterprise
+
+CIS 16 recommends
+1. Creating a secure app dev process
+2. Taking inventory of all applications the organization uses
+3. Use up-to-date and trusted versions of any apps needed
+4. Rate applications on how secure they are
+5. Train employees to create apps securely
+6. Apply Security principles in application design
+7. Implement security tests and conduct penetration testing and threat modeling 
+
+# CIS 17 - Incident Reponse & Management 
+Establish a program to develop and maintain an incident response capability (examples such as policies, plans, procedures, defined roles, training, and communications) to prepare, detect, and quickly respond to an attack.
+
+CIS 17 recommends
+1. Designating and assigning personnel to manage incident handling
+2. Create a list of all entities to inform about the incident
+3. Create a plan for reporting incidents
+4. Conduct routine incidence management response simulations
+5. Conduct post-incident reviews
+6. Establish security thresholds
+
+# CIS 18 - Penetration Testing
+Pen testing is done to show vulnerabilities in a network. Organizations can hire ethical hackers to get an idea of just how secure their system is. 
+
+There are multiple types of hackers and tests they conduct but it is recommended that a test be done annually to maintain network security.
+
+Types of Pen Tests
+- Black box - testers are in role of average hacker with no internal knowledge
+- Grey box - access and knowledge of a user with potentially elevated priveledges
+- White box - provides comprehensive of internal and external
+
+CIS 18 recommends
+1. Establish and maintain a penetration testing program
+2. Perform periodic external penetration tests
+3. Remediate penetration test findings
+4. Validate security measures
+5. Perform periodic internal penetration tests

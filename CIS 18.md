@@ -38,4 +38,18 @@ CIS 4 recommends
 4. Securely manage enterprise assets and software
 5. Uninstall or disable unecessary services on enterprise assets and software
 
-# CIS 5 - 
+# CIS 5 - Account Management
+CIS 5 recommends
+1. Establish and maintain an inventory of accounts
+2. Use unique passwords
+3. Disable dormant accounts
+4. Restrict administrator priviledges to dedicated administrator accounts
+5. Establish and maintain an inventory of service accounts 
+
+# CIS 6 - Access Control Management 
+Have a detailed onboarding and offboarding process to gain/remove rights for accessing company data
+
+CIS 6 recommends 
+1. Establish an access granting process
+2. Establish an access revoking process
+3. Require 
